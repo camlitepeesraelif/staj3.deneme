@@ -1,0 +1,17 @@
+{
+    "users":[
+      {
+        "id":"1" ,
+        "name":"esra",
+        "department":"ıt"
+
+      },
+
+      {
+        "id":"2" ,
+        "name":"ezgi",
+        "department":"pazarlama"
+
+      }
+    ]
+  }
